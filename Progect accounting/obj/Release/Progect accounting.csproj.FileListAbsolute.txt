@@ -1,0 +1,37 @@
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\bin\Release\Progect accounting.exe.config
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\bin\Release\Progect accounting.exe
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\bin\Release\Progect accounting.pdb
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\bin\Release\EntityFramework.dll
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\bin\Release\EntityFramework.xml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Progect accounting.csproj.AssemblyReference.cache
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Progect accounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Frames\GroupsInformation.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Frames\ProjectsInformation.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Frames\SupervisorInformation.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Windows\AddNewProjectWindow.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Windows\Authorization.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Windows\WorkerWindow.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\App.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Progect accounting_Content.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Progect accounting_MarkupCompile.cache
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Progect accounting_MarkupCompile.lref
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Frames\GroupsInformation.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Frames\ProjectsInformation.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Frames\SupervisorInformation.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Windows\AddNewProjectWindow.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Windows\Authorization.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Windows\WorkerWindow.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Progect accounting.g.resources
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Progect_accounting.Properties.Resources.resources
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Progect accounting.csproj.GenerateResource.cache
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Progect accounting.csproj.CoreCompileInputs.cache
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Progect accounting.csproj.CopyComplete
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Progect accounting.exe
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Progect accounting.pdb
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Windows\AddNewGroupWindow.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Windows\AddNewGroupWindow.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Windows\AddNewSupervisorWindow.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Release\Windows\AddNewSupervisorWindow.baml

@@ -1,0 +1,73 @@
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\bin\Debug\Progect accounting.exe.config
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\bin\Debug\Progect accounting.exe
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\bin\Debug\Progect accounting.pdb
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Progect accounting.csproj.AssemblyReference.cache
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Progect accounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Windows\Authorization.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\App.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Progect accounting_MarkupCompile.cache
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Progect accounting_MarkupCompile.lref
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Windows\Authorization.baml
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Progect accounting.g.resources
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Progect_accounting.Properties.Resources.resources
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Progect accounting.csproj.GenerateResource.cache
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Progect accounting.csproj.CoreCompileInputs.cache
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Progect accounting.exe
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Progect accounting.pdb
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\bin\Debug\EntityFramework.dll
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\bin\Debug\EntityFramework.xml
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Windows\WorkerWindow.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Progect accounting_Content.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Windows\WorkerWindow.baml
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Progect accounting.csproj.CopyComplete
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Frames\ProjectsInformation.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Frames\ProjectsInformation.baml
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Frames\GroupsInformation.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Frames\SupervisorInformation.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Frames\GroupsInformation.baml
+C:\Users\shume\Desktop\Диплом Сашка\App\Progect accounting\obj\Debug\Frames\SupervisorInformation.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Progect accounting.csproj.AssemblyReference.cache
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Progect accounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Frames\GroupsInformation.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Frames\ProjectsInformation.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Frames\SupervisorInformation.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Windows\AddNewProjectWindow.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Windows\Authorization.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Windows\WorkerWindow.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\App.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Progect accounting_Content.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Progect accounting_MarkupCompile.cache
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Progect accounting_MarkupCompile.lref
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Progect accounting.exe
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Progect accounting.pdb
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\bin\Debug\Progect accounting.exe.config
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\bin\Debug\Progect accounting.exe
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\bin\Debug\Progect accounting.pdb
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\bin\Debug\EntityFramework.xml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Frames\GroupsInformation.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Frames\ProjectsInformation.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Frames\SupervisorInformation.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Windows\Authorization.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Windows\WorkerWindow.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Windows\AddNewProjectWindow.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Progect accounting.g.resources
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Progect_accounting.Properties.Resources.resources
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Progect accounting.csproj.GenerateResource.cache
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Progect accounting.csproj.CoreCompileInputs.cache
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Progect accounting.csproj.CopyComplete
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Windows\AddNewGroupWindow.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Windows\AddNewSupervisorWindow.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Windows\AddNewGroupWindow.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Windows\AddNewSupervisorWindow.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\App.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Progect accounting.csproj.Fody.CopyLocal.cache
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Frames\UsersInformation.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Windows\AddNewUserWindow.g.cs
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Frames\UsersInformation.baml
+C:\Users\shume\Desktop\Диплом Сашка\Progect accounting\obj\Debug\Windows\AddNewUserWindow.baml

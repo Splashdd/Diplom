@@ -1,0 +1,63 @@
+﻿<Window x:Class="Progect_accounting.Windows.AddNewProjectWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Progect_accounting.Windows"
+        mc:Ignorable="d"
+        Title="Добавить проект" Height="525" Width="400" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="windowTitle" Margin="0,0,0,0" TextWrapping="Wrap" Text="Добавление нового проекта" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.ColumnSpan="2" Grid.Row="0"/>
+
+        <TextBlock TextWrapping="Wrap" Text="Группа" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0" Grid.Row="1"/>
+        <ComboBox x:Name="GroupsCB" Width="200" SelectedItem="{Binding Groups}" DisplayMemberPath="ShortName" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="1"/>
+
+        <TextBlock TextWrapping="Wrap" Text="ФИО студента" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0" Grid.Row="2"/>
+        <TextBox x:Name="FullNStudTB" Text="{Binding FullName}" Width="200" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="2"/>
+
+        <TextBlock TextWrapping="Wrap" Text="Тип работы" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0" Grid.Row="3"/>
+        <ComboBox x:Name="ProjTypeCB" Width="200" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="3">
+            <ComboBoxItem Content="Курсовая"/>
+            <ComboBoxItem Content="Диплом"/>
+        </ComboBox>
+
+        <TextBlock TextWrapping="Wrap" Text="Название" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0" Grid.Row="4"/>
+        <TextBox x:Name="ProjNTB" Text="{Binding ProjectName}" Width="200" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="4"/>
+
+        <TextBlock TextWrapping="Wrap" Text="ФИО руководителя" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0" Grid.Row="5"/>
+        <ComboBox x:Name="SupervCB" Width="200" SelectedItem="{Binding Supervisors}" DisplayMemberPath="FullName" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="5"/>
+
+        <TextBlock TextWrapping="Wrap" Text="Дата выполнения" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0" Grid.Row="6"/>
+        <DatePicker x:Name="CompDateDP" Width="200" SelectedDate="{Binding CompleteDate}" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="6"/>
+
+        <TextBlock TextWrapping="Wrap" Text="Оценка" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0" Grid.Row="7"/>
+        <ComboBox x:Name="MarkCB" Width="200" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="7">
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+        </ComboBox>
+
+        <TextBlock TextWrapping="Wrap" Text="Файлы" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0" Grid.Row="8"/>
+        <Button x:Name="SelectFileBtn" Content="Выбрать" Click="Select_Files" Width="80" Margin="0,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="2" Grid.Row="8"/>
+
+        <Button x:Name="AddBtn" Content="Добавить" Click="Add_Project" Width="80" Margin="0,0,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Row="9" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>

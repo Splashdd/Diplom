@@ -1,0 +1,29 @@
+﻿<Window x:Class="Progect_accounting.Windows.WorkerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Progect_accounting.Windows"
+        mc:Ignorable="d"
+        Title="Основное окно" Height="450" Width="800" MinHeight="450" MinWidth="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="400*"/>
+        </Grid.RowDefinitions>
+
+        <Border BorderBrush="LightBlue" Background="LightBlue" BorderThickness="1" Grid.Row="0"/>
+        <Image Source="/Resourses/logo.png" HorizontalAlignment="Left" Height="30" Margin="10,0,0,0" VerticalAlignment="Center" Width="30"/>
+        <TextBlock HorizontalAlignment="Left" Margin="50,0,0,0" TextWrapping="Wrap" Text="Учёт курсовых и дипломных работ" VerticalAlignment="Center"/>
+
+        <Menu x:Name="menu" VerticalAlignment="Bottom" HorizontalAlignment="Center" Height="20" Grid.Row="0" Background="LightBlue" Margin="0,0,0,0">
+            <MenuItem Header="Проекты" Click="GoTo_Projects"/>
+            <MenuItem Header="Группы" Click="GoTo_Groups"/>
+            <MenuItem Header="Руководители" Click="GoTo_Supervisors"/>
+        </Menu>
+
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Grid.Row="1"/>
+
+        <Button Content="Выход" Click="Exit" Margin="0,0,30,0" VerticalAlignment="Center" HorizontalAlignment="Right" Width="51"/>
+    </Grid>
+</Window>
